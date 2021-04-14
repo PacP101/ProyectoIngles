@@ -9,15 +9,18 @@
 <body>
     <div class="container">
         <div class="row">
-			<div class="col-md-5 mx-auto">
+			<div class="col-md-5 py-4 mx-auto">
 			<div id="first">
 				<div class="myform form ">
-					 <div class="logo mb-3">
+                    <div class = "card card-primary">
+                        <div class="col-md-12">
+					 <div class="logo mb-5">
 						 <div class="col-md-12 text-center">
-							<h1>Login</h1>
+                            <div class="card-header" >
+							    <h1>Basic Ingles</h1>
+                            </div>
 						 </div>
-					</div>
-                   <form action="" method="post" name="login">
+                        <form action="" method="post" name="login">
                            <div class="form-group">
                               <label for="exampleInputEmail1">Email address</label>
                               <input type="email" name="email"  class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
@@ -40,10 +43,10 @@
                            <div class="form-group">
                               <p class="text-center">Don't have account? <a href="#" id="signup">Sign up here</a></p>
                            </div>
+                        </div>
                         </form>
-
 				</div>
-
+            </div>
 		</div>
       </div>
 
