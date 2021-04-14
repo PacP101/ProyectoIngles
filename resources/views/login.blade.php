@@ -22,18 +22,18 @@
 						 </div>
                         <form action="" method="post" name="login">
                            <div class="form-group">
-                              <label for="exampleInputEmail1">Email address</label>
-                              <input type="email" name="email"  class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+                              <label for="exampleInputEmail1">Dirección de correo electrónico</label>
+                              <input type="email" name="email"  class="form-control" id="email" aria-describedby="emailHelp" placeholder="Ingrese correo electrónico">
                            </div>
                            <div class="form-group">
-                              <label for="exampleInputEmail1">Password</label>
-                              <input type="password" name="password" id="password"  class="form-control" aria-describedby="emailHelp" placeholder="Enter Password">
+                              <label for="exampleInputEmail1">Contraseña</label>
+                              <input type="password" name="password" id="password"  class="form-control" aria-describedby="emailHelp" placeholder="Ingrese Contraseña">
                            </div>
                            <div class="form-group">
-                              <p class="text-center">By signing up you accept our <a href="#">Terms Of Use</a></p>
+                              <p class="text-center">Al registrarte aceptas nuestra <a href="#">Condiciones de uso</a></p>
                            </div>
                            <div class="col-md-12 text-center ">
-                              <button type="submit" class=" btn btn-block mybtn btn-primary tx-tfm">Login</button>
+                              <button type="submit" class=" btn btn-block mybtn btn-primary tx-tfm">Acceder</button>
                            </div>
                            <div class="col-md-12 ">
                               <div class="login-or">
@@ -41,7 +41,7 @@
                               </div>
                            </div>
                            <div class="form-group">
-                              <p class="text-center">Don't have account? <a href="#" id="signup">Sign up here</a></p>
+                              <p class="text-center">¿No tienes cuenta? <a href="#" id="signup">Registrate aquí</a></p>
                            </div>
                         </div>
                         </form>
