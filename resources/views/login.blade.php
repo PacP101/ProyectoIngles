@@ -17,7 +17,7 @@
 					            <div class="logo mb-5">
 						            <div class="col-md-12 text-center">
                                         <div class="card-header" >
-							                <h1>Basic Ingles</h1>
+							                <h1>Basic English</h1>
                                         </div>
 						            </div>
                                         <form action="" method="post" name="login">
